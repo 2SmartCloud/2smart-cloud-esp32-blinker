@@ -3,9 +3,9 @@
 #include "2smart.h"
 #include "property/blink_led.h"
 
-String product_id = "1640089360218659";  // product id
+String product_id = "1640089360218659";  // production id
 const char *device_name = "2Smart Blinker";
-const char *device_version = "1";
+const char *device_version = "2";
 
 Cloud2Smart smartcloud;
 
