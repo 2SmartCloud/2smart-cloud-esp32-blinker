@@ -5,7 +5,7 @@
 
 String product_id = "1640089360218659";  // production id
 const char *device_name = "2Smart Blinker";
-const char *device_version = "2";
+const char *device_version = "3";
 
 Cloud2Smart smartcloud;
 
